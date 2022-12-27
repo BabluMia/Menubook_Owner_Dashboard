@@ -1,0 +1,68 @@
+.main_bg {
+  background-color: #f1f1f1 !important;
+}
+.main_text {
+  color: #3f3f44 !important;
+}
+.orange {
+  color: #ef5b0c !important;
+}
+.orange_bg {
+  background-color: #ef5b0c !important;
+}
+.buisness_main {
+  padding: 15px 30px !important;
+  min-height: 90vh;
+}
+.upper_select select {
+  color: #3f3f44 !important ;
+  border-radius: 4px;
+  border: 1px solid #d8d8d8 !important;
+  padding: 2px 4px;
+  font-size: 14px;
+  background-color: #F8F8F8 !important;
+}
+.upper_select select option {
+  border: 1px solid #d8d8d8 !important;
+}
+.upper_select .first select {
+  width: 140px;
+}
+.upper_select .second select {
+  max-width: 250px;
+}
+.card div {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  /* border: 1px solid #d8d8d8; */
+  border-radius: 8px;
+  opacity: 0.7;
+  padding: 6px 10px 3px 10px;
+}
+.card p {
+  font-size: 14px;
+}
+.client_box .white {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  opacity: 0.92;
+  min-height: 400px !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.client_box2 .white2{
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  opacity: 0.92;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.client_box2 .white3{
+  background: #ffffff 0% 0% no-repeat padding-box;
+ padding: 15px;
+}
+.white a {
+    color: #ef5b0c !important;
+}

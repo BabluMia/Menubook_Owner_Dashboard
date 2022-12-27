@@ -1,0 +1,103 @@
+.count p {
+  color: #7a7a7a;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+.count span {
+  color: #ef5b0c;
+}
+.new-user p {
+  color: #2d2d2d;
+  font-size: 22px;
+  margin-bottom: 0;
+}
+.filter_search select {
+  width: 100%;
+  cursor: pointer;
+  border-radius: 6px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #d8d8d8;
+  font-size: 14px;
+  padding: 5px 15px;
+  color: black;
+}
+.search {
+  position: relative;
+}
+.search input {
+  /* margin-top: 7px; */
+  width: 100%;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #d8d8d8;
+  border-radius: 6px;
+  padding: 5px 20px;
+}
+.search_icon {
+  position: absolute;
+  color: #ef5b0c;
+  right: 2px;
+  top: 2px;
+}
+select:focus-visible {
+  outline: none;
+  border: 1px solid #d8d8d8;
+}
+input:focus-visible {
+  outline: none;
+  border: 1px solid #d8d8d8;
+}
+
+.td-name span {
+  color: #2d2d2d;
+  font-size: 12px;
+}
+.table_icon span {
+  color: #a1a1a1;
+  font-size: 13px;
+}
+.user_td p{
+  font-size: 13px;
+  color: #7A7A7A;
+  margin-bottom: 2px;
+}
+.page-item:first-child .page-link {
+  /* background: #F1F1F1 0% 0% no-repeat padding-box;
+border: 1px solid #A1A1A1;
+border-radius: 8px; */
+  background: #f1f1f1 0% 0% no-repeat padding-box;
+  color: #ef5b0c;
+}
+.page-item:not(:first-child) .page-link {
+  background: #f1f1f1 0% 0% no-repeat padding-box;
+  color: #ef5b0c !important;
+}
+.page-item:not(:first-child) .page-link.active {
+  background-color: white !important;
+}
+/* .active>.page-link, .page-link.active{
+  z-index: 3;
+    color: var(--bs-pagination-active-color);
+    background-color: var(--bs-pagination-active-bg);
+    border-color: var(--bs-pagination-acti)
+} */
+
+.css-1ndpvdd-MuiTableCell-root {
+  font-weight: 600 !important;
+  font-size: 0.885rem;
+}
+.pagination p {
+  font-size: 14px;
+  color: #7a7a7a;
+  
+}
+.membership_td h6{
+  color: #FF1A00;
+  font: normal normal bold 14px/17px Open Sans;
+}
+.membership_td h5{
+  color: #FF1A00;
+
+}
+.membership_td p{
+  color: #7A7A7A;
+}

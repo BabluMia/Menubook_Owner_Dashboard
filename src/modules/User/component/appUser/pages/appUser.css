@@ -1,0 +1,29 @@
+.menu_name {
+  background-color: #ef5b0c;
+  border-radius: 6px;
+  color: #ffffff;
+  padding: 5px;
+}
+.comment_td img {
+  width: 46px;
+  height: 46px;
+
+  background: #ffffff;
+  border: 1px solid #d8d8d8;
+  border-radius: 6px;
+}
+
+.comment_td p{
+    color: #7A7A7A;
+}
+.rating_td span{
+    color: #ef5b0c;
+    font-size: 26px;
+}
+.status_td{
+    background: #6FC141 ;
+    border-radius: 12px;  
+    color: #FFFFFF;
+    border-color: #6FC141;
+    padding: 10px 40px;
+}

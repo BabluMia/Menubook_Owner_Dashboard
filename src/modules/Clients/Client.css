@@ -1,0 +1,304 @@
+.parent {
+  background-color: #f1f1f1 !important;
+  margin-top: -10px !important;
+  overflow-x: hidden;
+}
+.parent2 {
+  background-color: #f1f1f1 !important;
+  margin-top: -10px !important;
+  /* overflow-x: hidden; */
+}
+.main-div {
+  padding: 40px 40px;
+  min-height: 80vh;
+}
+.css-13xfq8m-MuiTabPanel-root {
+  padding: 0px 0 0 0 !important;
+}
+.input-title p {
+  font: normal normal normal 15px/17px Open Sans;
+  letter-spacing: 0px;
+  color: #515151;
+  opacity: 1;
+  font-size: 18px;
+  font-weight: 500;
+}
+.input-title input[type="text"],
+.input-title select {
+  height: 55px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #c2c2c2;
+  border-radius: 12px;
+  opacity: 1;
+  width: 100%;
+  outline: none;
+  padding: 0px 15px;
+}
+.input-head input[type="textarea"] {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #c2c2c2;
+  border-radius: 12px;
+  opacity: 1;
+  width: 100%;
+  outline: none;
+  padding: 0px 15px;
+  height: 100px;
+}
+
+.input-title input[type="checkbox"] {
+  width: 25px;
+  height: 25px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+}
+.input-title input[type="checkbox"]:checked {
+  background: #ffffff 0% 0% no-repeat padding-box !important;
+  color: #515151 !important;
+}
+.input-head input[type="text"]:focus,
+.input-head input[type="textarea"]:focus {
+  border: 1px solid #6aa71a !important;
+  outline: none;
+}
+.input-head2 .css-1s2u09g-control {
+  border: 1px solid #6aa71a !important;
+  outline: none;
+  height: 58px !important;
+  border-radius: 12px;
+}
+.input-head2 .css-1s2u09g-control:active {
+  height: 58px !important;
+  border-radius: 12px;
+}
+.input-head2 .css-6j8wv5-Input {
+  padding-top: 0px !important;
+}
+.input-head2 .css-1okebmr-indicatorSeparator,
+.input-head2 .css-tlfecz-indicatorContainer,
+.css-1pahdxg-control .css-tlfecz-indicatorContainer,
+.css-319lph-ValueContainer .css-tlfecz-indicatorContainer {
+  display: none !important;
+}
+.input-head2 .css-14el2xx-placeholder {
+  margin-top: -8px !important;
+}
+.input-head2 .css-1pahdxg-control {
+  border: 1px solid #6aa71a !important;
+  outline: none;
+  height: 58px !important;
+  border-radius: 12px;
+}
+.input-head2 .css-g1d714-ValueContainer {
+  padding: 0px 8px !important;
+}
+.input-head2 .css-1rhbuit-multiValue {
+  border-radius: 6px !important;
+  color: #707070;
+}
+.input-head2 .css-319lph-ValueContainer {
+  margin-bottom: -10px !important;
+}
+.input-title select {
+  color: #515151 !important;
+}
+.input-title .form-select option {
+  color: #515151;
+  height: 30px !important;
+  padding: 5px 8px !important;
+  /* background-color: #C2C2C2 !important; */
+  margin: 5px 8px;
+  outline: none !important;
+  border: none !important;
+}
+.arrow-icon {
+  position: absolute;
+  right: 30px;
+  top: 14px;
+}
+.arrow-icon svg {
+  color: #c2c2c2 !important;
+}
+.next-btn {
+  height: 56px;
+  /* UI Properties */
+  background: #ef5b0c 0% 0% no-repeat padding-box;
+  border-radius: 12px;
+  opacity: 1;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  padding: 10px 45px;
+}
+.back-btn {
+  height: 56px;
+  /* UI Properties */
+  background: #b4b3b3 0% 0% no-repeat padding-box;
+  border-radius: 12px;
+  opacity: 1;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  padding: 10px 45px;
+}
+.time div {
+  width: 2px !important;
+  height: 25px !important;
+  /* UI Properties */
+  background-color: 2px solid #6f5555 !important;
+  color: white;
+}
+.time input,
+.monthly input,
+.monthly select {
+  border: none !important;
+  outline: none !important;
+  background: transparent !important;
+}
+.monthly select:active,
+.monthly select:focus {
+  border: none !important;
+  outline: none !important;
+}
+.browse-main {
+  position: relative;
+}
+.file-up p {
+  padding: 16px 25px !important;
+  cursor: pointer;
+  border-radius: 12px;
+  background-color: #ef5b0c;
+  color: #f1f1f1 !important;
+  position: absolute !important;
+  top: 0;
+  right: 0;
+  margin-top: 3px;
+  margin-right: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+.file-up input {
+  z-index: 2222;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.condition input[type="checkbox"] {
+  width: 25px;
+  height: 25px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+  /* margin-top: 25px !important; */
+}
+.input-head2 .css-tj5bde-Svg{
+  /* display: none !important; */
+}
+
+@media (min-width: 350px) and (max-width: 796px) {
+  .main-div {
+    padding: 30px 10px;
+  }
+  .main-title {
+    font-size: 27px !important;
+    line-height: 30px !important;
+  }
+  .sub-title {
+    padding: 20px 0px !important;
+    font-size: 22px !important;
+    line-height: 27px !important;
+  }
+}
+@media only screen and (min-width: 375px) {
+}
+.product-heading {
+  font: normal normal normal 22px/24px Open Sans;
+  letter-spacing: 0px;
+  color: #2d2d2d;
+  opacity: 1;
+  font-size: 28px;
+  padding: 8px 0px;
+}
+.main-title {
+  text-align: left;
+  font: normal normal normal 24px/24px Open Sans;
+  letter-spacing: 0px;
+  color: #2d2d2d;
+  opacity: 1;
+  font-size: 33px;
+}
+/* .sub-title {
+  
+} */
+.sub-title {
+  font: normal normal normal 18px/24px Open Sans;
+  letter-spacing: 0px;
+  color: #2d2d2d;
+  opacity: 1;
+  font-size: 23px;
+  padding: 25px 0px !important;
+}
+.select-text p {
+  text-align: left;
+  font: normal normal normal 18px/24px Open Sans;
+  letter-spacing: 0px;
+  color: #2d2d2d;
+  opacity: 1;
+  font-size: 18px;
+}
+.csv select {
+  height: 50px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1.5px solid #6b6b6b;
+  color: #6b6b6b !important;
+}
+.csv select:focus {
+  border: 1.5px solid #6b6b6b;
+}
+.export-btn {
+  background: #fff5ef 0% 0% no-repeat padding-box;
+  border: 1px solid #ef5b0c;
+  border-radius: 8px;
+  opacity: 1;
+  color: #ef5b0c;
+  outline: none;
+  padding: 10px 25px;
+}
+.export-btn:hover {
+  background: #ef5b0c;
+  color: white;
+  transition: 0.4s all ease;
+}
+.import-csv input[type="checkbox"] {
+  background: #f1f1f1 0% 0% no-repeat padding-box;
+  border: 1px solid #313131;
+  border-radius: 6px !important;
+  opacity: 1;
+  border-radius: 8px !important;
+  width: 20px ;
+  height: 20px;
+}
+.import-csv span{
+  color: #2D2D2D;
+  font-size: 17px;
+}
+.add-photo{
+  cursor: pointer !important;
+}
+.add-photo input{
+  z-index: 2222;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer !important;
+}
+.add-photo p{
+  color: black;
+  text-decoration: underline;
+  font-size: 13px ;
+  font-weight: bold;
+  cursor: pointer;
+}
